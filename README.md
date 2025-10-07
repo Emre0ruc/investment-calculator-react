@@ -37,7 +37,7 @@ The project allows users to enter investment details and calculates investment g
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/investment-calculator-react.git
+git clone https://github.com/Emre0ruc/investment-calculator-react.git
 
 # Navigate into the project folder
 cd investment-calculator-react
